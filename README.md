@@ -1,7 +1,8 @@
-# 📌 Développeur d'Application Python – OpenClassrooms  
+# 📌 Développeur d'Application Python Backend – OpenClassrooms  
 
 Bienvenue sur mon GitHub ! 👋  
 Je m'appelle **Eric AUER**, et cette page présente mon parcours de formation en tant que **Développeur d'Application Python** chez **OpenClassrooms**.  
+
 
 ## 🎯 Objectif de la formation  
 
@@ -13,6 +14,7 @@ Elle couvre plusieurs aspects clés :
 - **Gestion et manipulation des bases de données** (SQL, ORM Django, **DBeaver**)  
 - **Mise en production et CI/CD**  
 - **Sécurité des applications** et respect des bonnes pratiques  
+
 
 ## 📂 Projets réalisés  
 
@@ -32,6 +34,7 @@ Elle couvre plusieurs aspects clés :
 
 📌 **Chaque projet est disponible dans son propre dépôt GitHub** avec ses livrables (code source, documentation, etc.).  
 
+
 ## 🚀 Compétences acquises  
 
 ✅ **Développement en Python** (POO, API, gestion des erreurs)  
@@ -43,6 +46,7 @@ Elle couvre plusieurs aspects clés :
 ✅ **Déploiement d’applications et CI/CD**  
 ✅ **Versionning et collaboration** avec **Git & GitHub**  
 
+
 ## 🛠️ Technologies et outils  
 
 | **Catégorie**      | **Technologies & Outils** |
@@ -53,9 +57,11 @@ Elle couvre plusieurs aspects clés :
 | 🌍 **Déploiement** | Docker, CI/CD, GitHub Actions  |
 | 🔧 **Outils**      | Git, GitHub, VS Code, PyCharm, Postman, **Click**  |
 
+
 ## 🎯 Prochaine étape  
 
 Je suis maintenant **prêt à mettre en application mes compétences** dans un environnement professionnel.  
 📩 **N’hésitez pas à me contacter !**  
+
 
 👉 [LinkedIn - Eric AUER](https://www.linkedin.com/in/eric-auer/)  
