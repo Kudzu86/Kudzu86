@@ -11,7 +11,7 @@ Elle couvre plusieurs aspects clés :
 
 - **Algorithmie** et optimisation du code  
 - **Développement web** avec **Django** et **Flask**  
-- **Gestion et manipulation des bases de données** (SQL, ORM Django, **DBeaver**)  
+- **Gestion et manipulation des bases de données** (SQL, ORM Django, DBeaver)  
 - **Mise en production et CI/CD**  
 - **Sécurité des applications** et respect des bonnes pratiques  
 
@@ -53,9 +53,9 @@ Elle couvre plusieurs aspects clés :
 |--------------------|-------------------------|
 | 💻 **Langages**   | Python, JavaScript, SQL  |
 | 📦 **Frameworks** | Django, Flask, Django REST Framework  |
-| 🗄️ **Bases de données** | PostgreSQL, MySQL, **DBeaver**  |
+| 🗄️ **Bases de données** | PostgreSQL, MySQL, DBeaver  |
 | 🌍 **Déploiement** | Docker, CI/CD, GitHub Actions  |
-| 🔧 **Outils**      | Git, GitHub, VS Code, PyCharm, Postman, **Click**  |
+| 🔧 **Outils**      | Git, GitHub, VS Code, Postman, Click  |
 
 
 ## 🎯 Prochaine étape  
